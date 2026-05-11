@@ -3,9 +3,8 @@
 <div align="center">
 
 # Hi, I'm **Jacob Ke** 👋
-<div align="center">
 
-  </div>
+</div>
 ## About Me
 
 ### Academics
