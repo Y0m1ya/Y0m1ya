@@ -8,6 +8,7 @@
 [![Visitors](https://komarev.com/ghpvc/?username=JacobKe&style=flat-square)](#)
 [![Email](https://img.shields.io/badge/Email-Jacobkxy.ke%40mail.utoronto.ca-red?style=flat-square)](mailto:Jacobkxy.ke@mail.utoronto.ca)
 
+</div>
 ## About Me
 
 ### Academics
