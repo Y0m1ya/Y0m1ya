@@ -29,9 +29,21 @@
 📄 [View My Resume]()
 
 ### 🙂 A bit about me
-- I’m not a horrible person :)
+- I’m not a horrible or an annoying person :)
 - I enjoy gaming, playing badminton, traveling, and enjoying music.
 - Its nice to see you this semester and hope we can be friends.
+
+## Tech
+| Category | Skills |
+|---|---|
+| Primary Skills | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat)  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=flat) |
+
+---
+
+
+</div>
+
+---
 
 <!--
 **Y0m1ya/Y0m1ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +59,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm c
+
