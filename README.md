@@ -26,7 +26,7 @@
 - Courses have been taken: MAT244, MAT246, MAT224, MAT337, MAT301, STA302, STA314, STA347,CSC207
 
 ### Resume
-📄 [View My Resume]()
+[📄 Resume PDF](./Resume_JK.pdf)
 
 ### 🙂 A bit about me
 - I’m not a horrible or an annoying person :)
