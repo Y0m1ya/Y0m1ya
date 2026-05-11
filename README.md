@@ -8,9 +8,9 @@
 [![Visitors](https://komarev.com/ghpvc/?username=JacobKe&style=flat-square)](#)
 [![Email](https://img.shields.io/badge/Email-Jacobkxy.ke%40mail.utoronto.ca-red?style=flat-square)](mailto:Jacobkxy.ke@mail.utoronto.ca)
 
-</div>
-## About Me
 
+## About Me
+</div>
 ### Academics
 - **Mathematics & Its Applications Specialist at the University of Toronto** 
 - Courses have been taken: MAT244, MAT246, MAT224, MAT337, MAT301, STA302, STA314, STA347,CSC207
