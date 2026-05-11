@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm **Haozhe Huo** 👋
+# Hi, I'm **Jacob Ke** 👋
 <div align="center">
 
 [![Visitors](https://komarev.com/ghpvc/?username=JacobKe&style=flat-square)](#)
